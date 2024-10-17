@@ -1,0 +1,20 @@
+Domains
+wa-goodtogo[.]com
+mygood-togo[.]com
+my-goodtogo[.]com
+mygood-2go[.]com
+
+IP
+82[.]147[.]84[.]221
+
+Reverse DNS
+vpsdedic[.]ru
+
+ASN
+AS57494
+
+Phone
+437-908-3912
+
+Files
+connexion.php
